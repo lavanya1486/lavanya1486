@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey,I'm Lavanya 👋
+<br>
+Passionate Computer Science undergraduate building innovative, data-driven solutions through code. I thrive on solving complex problems and collaborating on impactful tech projects.
+
 
 <!--
 **lavanya1486/lavanya1486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
