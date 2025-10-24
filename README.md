@@ -1,5 +1,4 @@
 ## Hey, I'm Lavanya 👋
-<hr>
 Passionate Computer Science undergraduate building innovative, data-driven solutions through code. I thrive on solving complex problems and collaborating on impactful tech projects.
 ## 🚀 About Me
 - 📚 BTech 2nd year student
