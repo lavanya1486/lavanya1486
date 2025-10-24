@@ -1,7 +1,6 @@
 ## Hey, I'm Lavanya 👋
-Passionate Computer Science undergraduate building innovative, data-driven solutions through code. I thrive on solving complex problems and collaborating on impactful tech projects.
+Passionate BTech 2nd year Computer Science student building innovative, data-driven solutions through code. I thrive on solving complex problems and collaborating on impactful tech projects.
 ## 🚀 About Me
-- 📚 BTech 2nd year student
 - 🔭 Currently enhancing my expertise in **Backend Development** with a focus on AI, ML
 - 💡 Enthusiastic about **research and innovation**, currently exploring AI applications
 - 🏓 Avid **table tennis player** and committed **social volunteer**, balancing academics with physical fitness and community service
