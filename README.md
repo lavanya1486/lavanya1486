@@ -4,7 +4,7 @@ Passionate Computer Science undergraduate building innovative, data-driven solut
 - 📚 BTech 2nd year student
 - 🔭 Currently enhancing my expertise in **Backend Development** with a focus on AI, ML
 - 💡 Enthusiastic about **research and innovation**, currently exploring AI applications
-- 🏸 Avid **table tennis player** and committed **social volunteer**, balancing academics with physical fitness and community service
+- 🏓 Avid **table tennis player** and committed **social volunteer**, balancing academics with physical fitness and community service
 ## Tech Stack & Tools
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
