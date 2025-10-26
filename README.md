@@ -21,7 +21,7 @@ Passionate BTech 2nd year Computer Science student building innovative, data-dri
 ![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanya1486&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&layout=compact&theme=radical&hide_border=true)
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lavanya-pandit-416916313)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-pandit-416916313)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyap1486@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juxt.me.lav/)
 ## 🤝 Open to Collaboration
