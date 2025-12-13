@@ -18,9 +18,9 @@ Passionate BTech 2nd year Computer Science student building innovative, data-dri
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=lavanya1486&color=0077B5&style=for-the-badge)
 ![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanya1486&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&layout=compact&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=lavanya1486&color=0077B5&style=for-the-badge)
 ## 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-pandit-416916313)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyap1486@gmail.com)
