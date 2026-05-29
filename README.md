@@ -51,12 +51,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavanya1486&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghvc/?username=lavanya1486&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavanya1486&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya1486&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=lavanya1486&theme=tokyonight&column=3&margin-w=15&no-bg=true" />
 </div>
 
 ---
