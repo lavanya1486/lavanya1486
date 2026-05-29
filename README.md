@@ -21,17 +21,12 @@
 ## 🏆 GSSoC 2026 Achievements
 
 <div align="center">
-
-<img src="./gssoc-badge-rising_star.png" width="220" alt="Rising Star Badge" />
-<img src="./gssoc-badge-building_momentum.png" width="220" alt="Building Momentum Badge" />
-<img src="./gssoc-badge-bounty_master.png" width="220" alt="Master Bounty Badge" />
-<img width="1080" height="1080" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/6a507ba8-f320-4c2d-8f32-2b6dd52599ec" />
-<img width="1080" height="1080" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/62a244a9-3b90-410f-954b-9e0e175077bc" />
-<img width="1080" height="1080" alt="gssoc-badge-building_momentum" src="https://github.com/user-attachments/assets/8b36affa-14f3-45c1-831f-d406b00523d8" />
-<img width="1080" height="1080" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/ea198ecb-9766-4f67-9182-76af591aee28" />
-<img width="1080" height="1080" alt="gssoc-badge-profile_complete" src="https://github.com/user-attachments/assets/40ba4783-1464-4cc9-81f3-697bf25f0030" />
-<img width="1080" height="1080" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/45b09cde-295f-4f06-a5c8-86c7770904d1" />
-
+  <img src="https://github.com/user-attachments/assets/ea198ecb-9766-4f67-9182-76af591aee28" width="140" alt="First Steps Badge" />
+  <img src="https://github.com/user-attachments/assets/40ba4783-1464-4cc9-81f3-697bf25f0030" width="140" alt="Profile Complete Badge" />
+  <img src="https://github.com/user-attachments/assets/45b09cde-295f-4f06-a5c8-86c7770904d1" width="140" alt="Point Scorer Badge" />
+  <img src="https://github.com/user-attachments/assets/6a507ba8-f320-4c2d-8f32-2b6dd52599ec" width="140" alt="Rising Star Badge" />
+  <img src="https://github.com/user-attachments/assets/8b36affa-14f3-45c1-831f-d406b00523d8" width="140" alt="Building Momentum Badge" />
+  <img src="https://github.com/user-attachments/assets/62a244a9-3b90-410f-954b-9e0e175077bc" width="140" alt="Master Bounty Badge" />
 </div>
 
 ---
