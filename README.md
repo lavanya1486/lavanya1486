@@ -1,8 +1,8 @@
+<div align="center">
+  
 # Hi there 👋, I'm Lavanya
 
 <div align="center">
-
-[![Typing SVG Subtitles](https://readme-typing-svg.demolab.com?font=Ubuntu&size=18&pause=1000&color=A970FF&center=true&vCenter=true&width=600&height=40&lines=BTech+CSE+Student+%E2%80%A2+Aspiring+Software+Engineer+%E2%80%A2+Lifelong+Learner)](https://git.io/typing-svg)
 
 <h3>🚀 Turning Coffee into Code & Building the Future ✨</h3>
 
