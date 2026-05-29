@@ -1,12 +1,12 @@
-<div align="center">
+# Hi there 👋, I'm Lavanya
 
-<img src="https://capsule-render.vercel.app/type/waving?color=8A2BE2&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=Hi+there+👋,+I'm+Lavanya;A+Passionate+CSE+Student+💻;An+Open+Source+Contributor+🚀" alt="Typing SVG Intro" />
 
 <h3>🚀 Turning Coffee into Code & Building the Future ✨</h3>
 
-[![Typing SVG Subtitles](https://readme-typing-svg.demolab.com?font=Ubuntu&size=18&pause=1000&color=A970FF&center=true&vCenter=true&width=600&height=40&lines=BTech+CSE+Student+•+Aspiring+Software+Engineer+•+Lifelong+Learner)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=18&pause=1000&color=A970FF&center=true&vCenter=true&width=600&height=40&lines=BTech+CSE+Student+•+Aspiring+Software+Engineer+•+Lifelong+Learner" alt="Typing SVG Subtitles" />
 
 </div>
 
