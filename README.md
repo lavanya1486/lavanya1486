@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=Hi+there+👋,+I'm+Lavanya;A+Passionate+CSE+Student+💻;An+Open+Source+Contributor+🚀" alt="Typing SVG Intro" />
+[![Typing SVG Subtitles](https://readme-typing-svg.demolab.com?font=Ubuntu&size=18&pause=1000&color=A970FF&center=true&vCenter=true&width=600&height=40&lines=BTech+CSE+Student+%E2%80%A2+Aspiring+Software+Engineer+%E2%80%A2+Lifelong+Learner)](https://git.io/typing-svg)
 
 <h3>🚀 Turning Coffee into Code & Building the Future ✨</h3>
 
