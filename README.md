@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-🎓 First-year BTech CSE student<br>
+🎓 Second-year BTech CSE student<br>
 💻 Passionate about Software Development & Open Source<br>
 🚀 Contributing to GSSoC 2026<br>
 🌱 Currently learning Full Stack Development & DSA<br>
