@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Lavanya
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;Open+Source+Contributor;GSSoC+2026+Contributor;Aspiring+Software+Engineer;Learning+Something+New+Everyday+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;Open+Source+Contributor;GSSoC+2026+Contributor;Aspiring+Software+Engineer;Learning+Something+New+Everyday+🚀" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🌟 About Me
 
-🎓 First-year BTech CSE student
+🎓 First-year BTech CSE student<br>
 💻 Passionate about Software Development & Open Source
 🚀 Contributing to GSSoC 2026
 🌱 Currently learning Full Stack Development & DSA
