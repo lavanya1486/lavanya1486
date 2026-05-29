@@ -55,18 +55,20 @@
 </p>
 
 ### 📈 Activity & Streak
-| General Stats | Streak Stats |
-| --- | --- |
-| ![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanya1486&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![Lavanya's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=lavanya1486&theme=tokyonight&hide_border=true) |
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavanya1486&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Lavanya's GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya1486&theme=tokyonight&hide_border=true" alt="Lavanya's GitHub streak" />
+</p>
 
 ### 🏆 Achievements & Skills
-| Most Used Languages | Trophy Showcase |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&layout=compact&theme=tokyonight&hide_border=true&langs_count=7) | ![Trophies](https://github-profile-trophy.vercel.app/?username=lavanya1486&theme=tokyonight&column=3&margin-w=15&no-bg=true) |
-
-### 🕒 Weekly Productivity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lavanya1486&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Langs" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=lavanya1486&theme=tokyonight&column=3&margin-w=15&no-bg=true" alt="Trophies" />
+</p>
+
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanya1486&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
