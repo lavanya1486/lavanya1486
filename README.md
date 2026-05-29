@@ -1,16 +1,7 @@
 <div align="center">
-
-# Hi there 👋, I'm Lavanya
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:ba68ff&height=220&section=header&text=Hi!%20I'm%20Lavanya%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20Into%20Code%20🚀&descAlignY=58&descSize=18"/>
 </div>
 
-<div align="center">
-
-<h3>🚀 Turning Coffee into Code & Building the Future ✨</h3>
-
-[![Typing SVG Subtitles](https://readme-typing-svg.demolab.com?font=Ubuntu&size=18&pause=1000&color=A970FF&center=true&vCenter=true&width=600&height=40&lines=BTech+CSE+Student+•+Aspiring+Software+Engineer+•+Lifelong+Learner)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
@@ -24,7 +15,36 @@
 
 ---
 
-## 🏆 GSSoC 2026 Achievements
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+### 📈 Activity & Streak
+
+![](https://github-readme-stats.shion.dev/api?username=lavanya1486&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=lavanya1486&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lavanya1486&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+### 📊 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lavanya1486&theme=tokyonight&bg_color=1a1b26&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lavanya1486/lavanya1486/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+# 🏆 GSSoC 2026 Achievements
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ea198ecb-9766-4f67-9182-76af591aee28" width="140" alt="First Steps Badge" />
@@ -40,41 +60,6 @@
 
 ---
 
-## 🚀 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=lavanya1486&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
-</p>
-
-### 📈 Activity & Streak
-![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanya1486&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Lavanya's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=lavanya1486&theme=tokyonight&hide_border=true)
-
-### 🏆 Achievements & Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)
-![Trophies](https://github-profile-trophy.vercel.app/?username=lavanya1486&theme=tokyonight&column=3&margin-w=15&no-bg=true)
-
-### 📊 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lavanya1486&theme=tokyonight&bg_color=1a1b26&hide_border=true)
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lavanya1486/lavanya1486/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -84,25 +69,26 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/lavanyaa._.___/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:lavanya1486@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
----
-
-## ✨ Quote I Follow
-
+<br>
 <div align="center">
-
-> *"Code. Learn. Build. Repeat."* 🚀
-
+🤝 Let's connect, collaborate, and build something amazing together!
 </div>
+
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lavanya1486&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <br />
-  ⭐ From <a href="https://github.com/lavanya1486">Lavanya</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:ba68ff&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff"/>
+
+
 </div>
+
+
