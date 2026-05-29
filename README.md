@@ -1,45 +1,106 @@
-## Hey, I'm Lavanya 👋
-Passionate BTech 2nd year Computer Science student building innovative, data-driven solutions through code. I thrive on solving complex problems and collaborating on impactful tech projects.
-## 🚀 About Me
-- 🔭 Currently enhancing my expertise in **Backend Development** with a focus on AI, ML
-- 💡 Enthusiastic about **research and innovation**, currently exploring AI applications
-- 🏓 Avid **table tennis player** and committed **social volunteer**, balancing academics with physical fitness and community service
-## 💻 Tech Stack & Tools
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-### Development & Data
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-## 📈 GitHub Stats
-![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanya1486&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&layout=compact&theme=radical&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=lavanya1486&color=0077B5&style=for-the-badge)
-## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-pandit-416916313)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyap1486@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juxt.me.lav/)
-## 🤝 Open to Collaboration
-I'm actively seeking **research collaborations**, and **learning partnerships** to contribute to meaningful tech innovations and grow as a developer.
+# Hi there 👋, I'm Lavanya
 
-Let's build something amazing together! 🚀
-<!--
-**lavanya1486/lavanya1486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;Open+Source+Contributor;GSSoC+2026+Contributor;Aspiring+Software+Engineer;Learning+Something+New+Everyday+🚀" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
 
+---
+
+## 🌟 About Me
+
+🎓 Second-year BTech CSE student
+💻 Passionate about Software Development & Open Source
+🚀 Contributing to GSSoC 2026
+🌱 Currently learning Full Stack Development & DSA
+⚡ Fun fact: I break code and fix it better 😎
+
+---
+
+## 🏆 GSSoC Badges
+
+<div align="center">
+
+[![GSSoC 2026](https://img.shields.io/badge/GSSoC-2026-ff69b4?style=for-the-badge\&logo=github)](https://gssoc.girlscript.tech/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge\&logo=opensourceinitiative)](https://opensource.guide/)
+[![GitHub](https://img.shields.io/badge/GitHub-Active%20Contributor-black?style=for-the-badge\&logo=github)](https://github.com/)
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavanya1486&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya1486&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/lavanya1486">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:lavanya1486@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## ✨ Quote I Follow
+
+<div align="center">
+
+> *"Code. Learn. Build. Repeat."* 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lavanya1486&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+⭐ From [Lavanya](https://github.com/lavanya1486)
+
+</div>
