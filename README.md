@@ -1,6 +1,8 @@
 <div align="center">
-  
+
 # Hi there 👋, I'm Lavanya
+
+</div>
 
 <div align="center">
 
