@@ -33,6 +33,9 @@
   <img src="https://github.com/user-attachments/assets/6a507ba8-f320-4c2d-8f32-2b6dd52599ec" width="140" alt="Rising Star Badge" />
   <img src="https://github.com/user-attachments/assets/8b36affa-14f3-45c1-831f-d406b00523d8" width="140" alt="Building Momentum Badge" />
   <img src="https://github.com/user-attachments/assets/62a244a9-3b90-410f-954b-9e0e175077bc" width="140" alt="Master Bounty Badge" />
+  <img src="https://github.com/user-attachments/assets/6a507ba8-f320-4c2d-8f32-2b6dd52599ec" width="140" alt="Bounty Hunter Badge" />
+  <img src="https://github.com/user-attachments/assets/8b36affa-14f3-45c1-831f-d406b00523d8" width="140" alt="5 PR Merge Badge" />
+  <img src="https://github.com/user-attachments/assets/62a244a9-3b90-410f-954b-9e0e175077bc" width="140" alt="Getting Started Badge" />
 </div>
 
 ---
