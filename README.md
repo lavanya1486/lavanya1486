@@ -44,7 +44,7 @@
 
 ---
 
-# 🏆 GSSoC 2026 Achievements
+## 🏆 GSSoC 2026 Achievements
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ea198ecb-9766-4f67-9182-76af591aee28" width="140" alt="First Steps Badge" />
