@@ -47,17 +47,19 @@
 ## 🏆 GSSoC 2026 Achievements
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/669810ca-ec89-4e94-b693-183e48276277" width="120" alt="Profile Complete Badge" />
-  <img src="https://github.com/user-attachments/assets/a495b586-eb46-4c90-8716-6ce82c32c21e" width="120" alt="First Step Badge" />
-  <img src="https://github.com/user-attachments/assets/20b4f22c-ffc5-4281-aa64-ef4c29b95455" width="120" alt="5 PR Merge Badge" />
-  <img src="https://github.com/user-attachments/assets/6207826e-ed4b-4a40-aab4-b781cc0d53ac" width="120" alt="Week 1 Streak Badge" />
-  <img src="https://github.com/user-attachments/assets/0be3d93c-8b59-4ea9-ac99-08b3b9f99725" width="120" alt="Point Scorer Badge" />
-  <img src="https://github.com/user-attachments/assets/b3f2d635-96b9-462a-b8b0-ddd581fe4713" width="120" alt="Building Momentum Badge" />
-  <img src="https://github.com/user-attachments/assets/68a406db-6ddd-4f29-8f19-37bf96070b88" width="120" alt="Contributor Badge" />
-  <img src="https://github.com/user-attachments/assets/d95e4803-7f54-49b7-a411-a4f108fd9b1c" width="120" alt="Rising Star Badge" />
-  <img src="https://github.com/user-attachments/assets/21b6ea6b-8e35-4ad2-addf-3d44329362a7" width="120" alt="Power Contributor Badge" />
-  <img src="https://github.com/user-attachments/assets/190ddbf5-6230-44ad-bdfc-3f7290daea90" width="120" alt="Bounty Hunter Badge" />
-  <img src="https://github.com/user-attachments/assets/f56a1a89-8e9f-458f-82ec-e0042e46c2c4" width="120" alt="Master Bounty Badge" />
+  <img src="https://github.com/user-attachments/assets/a0e19d42-3bdd-4524-a664-31f65d764542" width="120" height="120" alt="gssoc-badge-elite" />
+  <img src="https://github.com/user-attachments/assets/1a743adf-f57d-498a-89e2-9b0b7f3cbc16" width="120" height="120" alt="gssoc-badge-on_a_roll" />
+  <img src="https://github.com/user-attachments/assets/d95e4803-7f54-49b7-a411-a4f108fd9b1c" width="120" height="120" alt="Rising Star Badge" />
+  <img src="https://github.com/user-attachments/assets/21b6ea6b-8e35-4ad2-addf-3d44329362a7" width="120" height="120" alt="Power Contributor Badge" />
+  <img src="https://github.com/user-attachments/assets/669810ca-ec89-4e94-b693-183e48276277" width="120" height="120" alt="Profile Complete Badge" />
+  <img src="https://github.com/user-attachments/assets/a495b586-eb46-4c90-8716-6ce82c32c21e" width="120" height="120" alt="First Step Badge" />
+  <img src="https://github.com/user-attachments/assets/20b4f22c-ffc5-4281-aa64-ef4c29b95455" width="120" height="120" alt="5 PR Merge Badge" />
+  <img src="https://github.com/user-attachments/assets/6207826e-ed4b-4a40-aab4-b781cc0d53ac" width="120" height="120" alt="Week 1 Streak Badge" />
+  <img src="https://github.com/user-attachments/assets/0be3d93c-8b59-4ea9-ac99-08b3b9f99725" width="120" height="120" alt="Point Scorer Badge" />
+  <img src="https://github.com/user-attachments/assets/b3f2d635-96b9-462a-b8b0-ddd581fe4713" width="120" height="120" alt="Building Momentum Badge" />
+  <img src="https://github.com/user-attachments/assets/68a406db-6ddd-4f29-8f19-37bf96070b88" width="120" height="120" alt="Contributor Badge" />
+  <img src="https://github.com/user-attachments/assets/190ddbf5-6230-44ad-bdfc-3f7290daea90" width="120" height="120" alt="Bounty Hunter Badge" />
+  <img src="https://github.com/user-attachments/assets/f56a1a89-8e9f-458f-82ec-e0042e46c2c4" width="120" height="120" alt="Master Bounty Badge" />
 </div>
 
 ---
