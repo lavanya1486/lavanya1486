@@ -27,9 +27,9 @@
 
 ### 📈 Activity & Streak
 
-![](https://github-readme-stats.shion.dev/api?username=lavanya1486&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lavanya1486&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=lavanya1486&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lavanya1486&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya1486&theme=tokyonight&hide_border=true&count_private=false&layout=compact&langs_count=8)
 
 ### 📊 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lavanya1486&theme=tokyonight&bg_color=1a1b26&hide_border=true)
