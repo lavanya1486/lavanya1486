@@ -5,17 +5,17 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 A Bit About Me
 
-🎓 Second-year BTech CSE student<br>
-💻 Passionate about Software Development & Open Source<br>
-🚀 Contributing to GSSoC 2026<br>
-🌱 Currently learning Full Stack Development & DSA<br>
-⚡ Fun fact: I break code and fix it better 😎
+I'm a third-year CSE student who spends most of her free time writing code and figuring out how things break (and then how to fix them). Right now I'm deep into full-stack development and DSA, and picking up new things one project at a time.
+
+I'm also contributing to GSSoC 2026 — it's been a great way to actually work on real codebases instead of just tutorials, and to learn from people who've been doing this a lot longer than me.
+
+😎 Fun fact: I've made peace with the fact that debugging is basically 80% of the job.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 What I Work With
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
@@ -44,7 +44,9 @@
 
 ---
 
-## 🏆 GSSoC 2026 Achievements
+## 🏆 GSSoC 2026, So Far
+
+A few badges I've picked up along the way:
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a0e19d42-3bdd-4524-a664-31f65d764542" width="120" height="120" alt="gssoc-badge-elite" />
@@ -64,7 +66,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Find Me Elsewhere
 
 <div align="center">
   <a href="https://github.com/lavanya1486">
@@ -82,7 +84,7 @@
 </div>
 <br>
 <div align="center">
-🤝 Let's connect, collaborate, and build something amazing together!
+Always up for a chat about a project, a bug, or just what you're building — feel free to reach out.
 </div>
 
 
@@ -94,5 +96,3 @@
 
 
 </div>
-
-
